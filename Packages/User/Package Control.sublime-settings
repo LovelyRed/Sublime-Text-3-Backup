@@ -7,7 +7,7 @@
 	[
 		"ChineseLocalizations",
 		"ConvertToUTF8",
-		"Package Control",
-		"SublimeGit"
+		"Git",
+		"Package Control"
 	]
 }
