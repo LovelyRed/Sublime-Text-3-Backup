@@ -226,10 +226,18 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 358.0,
-				"last_filter": "in",
+				"height": 357.0,
+				"last_filter": "Package Control: ",
 				"selected_items":
 				[
+					[
+						"Package Control: ",
+						"Package Control: Remove Package"
+					],
+					[
+						"pi",
+						"Package Control: Install Package"
+					],
 					[
 						"in",
 						"Package Control: Install Package"
@@ -237,10 +245,6 @@
 					[
 						"boxy",
 						"Boxy Theme: Preferences"
-					],
-					[
-						"pi",
-						"Package Control: Install Package"
 					],
 					[
 						"g",
@@ -261,10 +265,6 @@
 					[
 						"ga",
 						"Git: Add All"
-					],
-					[
-						"Package Control: ",
-						"Package Control: Install Package"
 					],
 					[
 						"git st",
@@ -291,7 +291,7 @@
 						"Git: Add Remote"
 					]
 				],
-				"width": 349.0
+				"width": 462.0
 			},
 			"console":
 			{
@@ -319,6 +319,7 @@
 			],
 			"file_history":
 			[
+				"/C/Users/yang3/AppData/Roaming/Sublime Text 3/Packages/User/SyncSettings.sublime-settings",
 				"/C/Users/yang3/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
 				"/C/Users/yang3/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 				"/C/Users/yang3/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
